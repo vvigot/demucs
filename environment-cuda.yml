@@ -11,6 +11,7 @@ dependencies:
   - torchaudio>=0.8
   - cudatoolkit>=10
   - tqdm>=4.36
+  - numpy<2.0
   - pip
   - pip:
     - diffq>=0.2
